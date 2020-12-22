@@ -1,0 +1,14 @@
+#leagueBtn,#matchBtn,#addBtn{
+ -fx-background-color:#2c0232;
+ -fx-text-fill:#e7e5e5;
+
+}
+#leagueBtn:hover,#matchBtn:hover,#addBtn:hover{
+   -fx-background-color : #10165F;
+
+}
+#leagueBtn:pressed,#matchBtn:pressed,#addBtn:pressed{
+    -fx-background-color : #1620A1;
+
+}
+
